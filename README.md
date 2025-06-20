@@ -1,5 +1,4 @@
 # NAZIM_X
-![IMG-20240905-WA0092](https://github.com/user-attachments/assets/e6dadad1-ce26-429c-837b-c759f966ec29)
 
 <a><img src='https://files.catbox.moe/fhk2br.jpg'/></a>
 
@@ -19,19 +18,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝗖𝗢𝗗𝗘+𝗕𝗬+Dark-Love-DecentNazim+Enjoy!!!)](https://git.io/typing-svg)
 
-<a><img src='https://files.catbox.moe/fhk2br.jpg/></a>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=WHATSAPP+CHANNEL)](https://git.io/typing-svg)
 <br>
 <p>This is my Whatsapp Channel kindly follow us to check on update about Dark-Love-DecentNazim 😌😇. Kindly click on the link below 👇👇
  <p><a href="https://whatsapp.com/channel/0029Vb6X6XBCxoAqK5Ss343O"><img title="WHATSAPP CHANNEL" src="https://img.shields.io/badge/WHATSAPP CHANNEL-w?color=purple&style=for-the-badge&logo=Whatsapp" width="220" height="38.45"/></a></p>
  
-<a><img src='https://files.catbox.moe/38f9ee.jpg'/></a>
-
-
 
 ## Get Session ID Here
-<p><a href="https://silva-creds.onrender.com/pair"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/ Get Session ID-h?color=yellow&style=for-the-badge&logo=Session ID" width="230" height="38.45"/></a></p>
+<p><a href="
+    
+    
+    
+    
+    
+    
+    
+    
+    "><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/ Get Session ID-h?color=yellow&style=for-the-badge&logo=Session ID" width="230" height="38.45"/></a></p>
 
 ## Deploy on Heroku 
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/nazimhihoo/NazimX-MD"><img title="Deploy On Heroku" src="https://img.shields.io/badge/ heroku-h?color=blue&style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
@@ -54,9 +59,3 @@ Credits: Lord-No-Name for support
   <p>CONTACT ME FOR ANY ISSUE wa.me/923701335041</p>
 
   
-
-<a><img src='https://files.catbox.moe/fhk2br.jpg'/></a>
-<a><img src='https://files.catbox.moe/fhk2br.jpg'/></a>
-
-
-   <a href="wa.me/923701335041"><img title="CONTACT ME" src="https://img.shields.io/badge/CONTACT ME-h?color=blue&style=for-the-badge&logo=luis" width="210" height="38.45"/></a></p>
